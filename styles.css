@@ -1,0 +1,16 @@
+.container {
+    margin-top: 20px;
+  }
+  
+  input[type="number"] {
+    width: 100px;
+  }
+  
+  select {
+    margin-left: 10px;
+  }
+  
+  button {
+    margin-left: 10px;
+  }
+  
